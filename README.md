@@ -5,8 +5,5 @@
 5. php artisan serve
 
 
-#menggunakan template mazer 
-
-#sudah ada notif dengan toast
-
-#sudah ada breeze dan spatie permisson
+#template mazer, notif dengan toast
+#breeze dan spatie permisson
